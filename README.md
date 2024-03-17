@@ -11,4 +11,4 @@ be found in the jupyter notebook.
 * Open the directory in the conda command line environment
 * Type the following command: `conda env create --prefix ./env -f environment.yml`
 * A new environment will be created in your directory.
-* Now it's only a matter of activating your environment and then opening up the jupyter notebook!
+* Now it's only a matter of activating your environment and then typing `jupyter notebook` in the command line.
